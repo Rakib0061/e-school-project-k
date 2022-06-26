@@ -1,0 +1,195 @@
+@media (max-width:1399px) {
+
+}
+
+
+@media (max-width:1199px) {
+    .navbar .container.px-5 {
+        max-width: 918px !important;
+    }
+    .hero_section .container.px-5 {
+        max-width: 918px !important;
+    }
+    .hero_title {
+        padding: 54px 69px 86px 0;
+    }
+    .hero_title h5 {
+        font-size: 14px;
+    }
+    .hero_title h1 {
+        font-weight: 600;
+        font-Size: 37px;
+        line-height: 54px;
+    }
+    .hero_title h4 {
+        font-size: 13px;
+    }
+    .btn_custom {
+        font-size: 15px;
+    }
+    .information_section .container.px-5 {
+        max-width: 918px !important;
+    }
+    .information_section .container .row .col-xl-3.col-lg-3.px-5 {
+        padding: 25px !important;
+    }
+    .online_class .container.px-5 {
+        max-width: 918px !important;
+    }
+    .modern {
+        padding: 24px 15px;
+        box-shadow: 0px 0px 7px 3px #00000024;
+    }
+    .online_class .container .row .col-xl-4.col-lg-4.px-4 {
+        padding: 8px !important;
+    }
+    .modern_title h4 {
+        font-size: 22px;
+    }
+    .modern_title h5 {
+        font-size: 14px;
+    }
+    .btn_custom_course {
+        font-size: 12px;
+    }
+    .cal p {
+        font-size: 12px;
+    }
+    .cal p img {
+        width: 13px !important;
+    }
+    .seats p {
+        font-size: 13px;
+    }
+    .seats p img {
+        width: 16px !important;
+    }
+    .man_title {
+        padding: 9px 60px;
+        text-align: center;
+    }
+    footer {
+        text-align: center;
+    }
+    .millions p {
+        margin: 0 0 50px;
+    }
+}
+
+
+@media (max-width:991px) {
+    .navbar-brand {
+        width: 150.07px;
+    }
+    .nav-link {
+        font-size: 14px;
+    }
+    .hero_title {
+        padding: 15px 0px 86px 0;
+    }
+    .hero_title h5 {
+        font-size: 13px;
+    }
+    .hero_title h1 {
+        font-Size: 36px;
+        line-height: 44px;
+    }
+    .hero_title h4 {
+        font-size: 12px;
+    }
+    .btn_custom {
+        font-size: 13px;
+    }
+    .information_section .container .row {
+        justify-content: center;
+    }
+    .information_section .container .row .col-xl-3.col-lg-3.col-md-12.px-5 {
+        max-width: 336px;
+    }
+    .online_class .container .row {
+        justify-content: center;
+    }
+    .online_class .container .row .col-xl-4.col-lg-4.px-4 {
+        padding-bottom: 37px !important;
+    }
+    .online_class .container .row .col-xl-4.col-lg-4.px-4 {
+        max-width: 362px;
+    }
+    .modern {
+        padding: 24px 15px;
+    }
+    
+}
+
+
+@media (max-width:767px) {
+    .hero_section {
+        text-align: center;
+    }
+    .navbar-toggler {
+        padding: 0;
+    }
+    .testimonial_section .row .col-xl-3 {
+        width: 26%;
+    }
+}
+
+
+@media (max-width:575px) {
+    .navbar .container.px-5 {
+        padding: 0 11px 0!important;
+    }
+    .navbar-brand {
+        width: 119.07px;
+    }
+    .navbar-brand {
+        width: 119.07px;
+    }
+    .hero_title h5 {
+        font-size: 12px;
+    }
+    .hero_title h1 {
+        font-Size: 34px;
+    }
+    .hero_title h4 {
+        font-size: 10px;
+    }
+    .hero_image img {
+        width: 200px;
+    }
+    .information_section .container .row .col-xl-3.col-lg-3.col-md-12.px-5 {
+        max-width: 216px;
+    }
+    .text h1 {
+        font-size: 40px;
+        line-height: 47px;
+        font-weight: 400;
+    }
+    .modern {
+        padding: 24px 15px 0px;
+    }
+    .modern_title h4 {
+        line-height: 30px;
+    }
+    .d-flex {
+        flex-direction: column;
+    }
+    .man_title {
+        padding: 9px 20px;
+    }
+    .testimonial_section .row .col-xl-3 {
+        width: 46%;
+    }
+    .millions p {
+        font-size: 14px;
+    }
+    .terms p {
+        font-size: 13px;
+    }
+    .copyright p {
+        font-size: 10px;
+    }
+    footer {
+        padding: 20px 0 0;
+    }
+}
